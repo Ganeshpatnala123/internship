@@ -1,6 +1,7 @@
 ## Intership Task
 I developed the job recuritment wordpress plugin to do the activities like post job,view applications,showing list of jobs and apply job
 ## Admin Page:
+![](ss1.png)
 we have two sections in the admin page.Those are 1)Post a job and 2)View application
    ## Post Job:
    
